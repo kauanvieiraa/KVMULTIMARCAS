@@ -1,0 +1,95 @@
+.container{
+    width: 800px;
+    height: 768px;
+    background-color: rgb(161, 153, 153);
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+.home{
+    width: 200px;
+    height: 60px;
+    background-color: rgb(102, 98, 98);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Concert One', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Staatliches', cursive;
+
+}
+.imagensia{
+    width: 200px;
+    height: 60px;
+    background-color: rgb(102, 98, 98);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Concert One', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Staatliches', cursive;
+}
+.criar{
+    width: 200px;
+    height: 60px;
+    background-color: rgb(102, 98, 98);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Concert One', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Staatliches', cursive;
+}
+.criar2{
+    width: 200px;
+    height: 60px;
+    background-color: rgb(102, 98, 98);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Concert One', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Staatliches', cursive;
+}
+.imagemIA{
+    width: 185px;
+    height: 300px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 12px;
+}
+.imagemIA2{
+    width: 185px;
+    height: 300px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 12px;
+}
+.imagemIA3{
+    width: 185px;
+    height: 300px;
+    background-color: rgb(181, 178, 184);
+    margin-left: 12px;
+}
+.imagemIA4{
+    width: 185px;
+    height: 300px;
+    background-color: rgb(181, 178, 184);
+    margin-left: 12px;
+}
+.texto{
+    width: 185px;
+    height: 90px;
+    background-color: rgb(181, 178, 184);
+    margin-left: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Concert One', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Staatliches', cursive;
+}
+.quadradinho{
+    width: 60px;
+    height: 60px;
+    background-color: rgb(181, 178, 184);
+    margin-left: 12px;
+}
